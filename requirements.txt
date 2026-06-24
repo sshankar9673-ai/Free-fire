@@ -1,0 +1,7 @@
+flask
+flask-cors
+cachetools
+protobuf==5.26.1
+pycryptodome
+httpx
+gunicorn
